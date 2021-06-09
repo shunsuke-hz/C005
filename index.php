@@ -25,6 +25,7 @@ foreach ($ipAddresses as $value) {
     }
     echo $judge;
 //    test
+//    test2
 }
 
 ?>
