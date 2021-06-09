@@ -24,7 +24,6 @@ foreach ($ipAddresses as $value) {
         $judge = 'False' . "\n";
     }
     echo $judge;
-//    test
 }
 
 ?>
