@@ -8,7 +8,7 @@ $judge = '';
 while ($input = fgets(STDIN)) {
     $ipAddresses[] = trim($input);
 }
-
+// fuga
 foreach ($ipAddresses as $value) {
     $ipAddress = explode(".", $value);
     if (count($ipAddress) === 4) {
