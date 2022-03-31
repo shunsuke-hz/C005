@@ -24,7 +24,7 @@ foreach ($ipAddresses as $value) {
         $judge = 'False' . "\n";
     }
     echo $judge;
-//    hogehoge
+//    hogehoge1
 }
 
 ?>
